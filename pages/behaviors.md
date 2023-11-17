@@ -4,11 +4,9 @@ layout: about
 permalink: /behaviors.html
 ---
 
-featured-image: SDHC0027
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include featured-image: SDHC0027 %}
-
-{% include feature/nav-menu.html sections="About Symptomatic Behaviors" %}
+{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Common Behaviors Associated with Typical Health Conditions
 
