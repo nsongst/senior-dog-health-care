@@ -4,7 +4,7 @@ layout: about
 permalink: /behaviors.html
 ---
 
-{% include feature/20230704_232702.mp4 objectid="SDHC004" %}
+{% include feature/au.jpg objectid="SDHC027" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
