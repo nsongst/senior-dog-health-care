@@ -1,16 +1,8 @@
 field,display_name,browse_link,external_link
-title,Title
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
+title,Title,
+date,Date,
 location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
 condition,Condition,true,
+behavior,Behavior,true,
+medicine,Medicine,true,
