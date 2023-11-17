@@ -4,7 +4,7 @@ layout: about
 permalink: /behaviors.html
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/20230704_232702.mp4 objectid="SDHC004" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
