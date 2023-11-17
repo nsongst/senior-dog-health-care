@@ -8,7 +8,7 @@ permalink: /conditions.html
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## Dermatitis
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
@@ -19,7 +19,38 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-## History of the Collection
+## Gastrointestinal Inflammation
+
+This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+
+- a CSV of collection metadata
+- a folder of JPG images or PDF documents
+
+The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+
+For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 Add stuff about Ralphie's health history
 Add links to [Rolling Hills Vet Clinic](https://rollinghillsvethospital.com/) and [Combs Vet Clinic](https://www.combsvetclinic.com/)
+
+## Gastrointestinal Inflammation
+
+This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+
+- a CSV of collection metadata
+- a folder of JPG images or PDF documents
+
+The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+
+For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
+## Intervertebral Disc Disease
+
+This site is generated using [what is IVDD]([https://collectionbuilding.github.io/gh/](https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/intervertebral-disc-disease#:~:text=Intervertebral%20disc%20disease%20(IVDD)%20is,from%20mild%20discomfort%20to%20paralysis.)), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) [symptoms of IVDD](https://www.matthews.carolinavet.com/site/pet-health-blog/2020/08/14/ivdd-intervertebral-disc-disease-in-dogs) [useful information about IVDD](https://vcahospitals.com/know-your-pet/degenerative-disc-disease-in-dogs) from: 
+
+- a CSV of collection metadata
+- a folder of JPG images or PDF documents
+
+The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+
+For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
