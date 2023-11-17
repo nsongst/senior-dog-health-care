@@ -4,7 +4,9 @@ layout: about
 permalink: /behaviors.html
 ---
 
-{% include feature/au.jpg objectid=SDHC0027 %}
+featured-image: SDHC0027
+
+{% include featured-image: SDHC0027 %}
 
 {% include feature/nav-menu.html sections="About Symptomatic Behaviors" %}
 
