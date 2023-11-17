@@ -1,5 +1,5 @@
 ---
-title: Collection History
+title: Symptomatic Behaviors
 layout: about
 permalink: /behaviors.html
 ---
@@ -8,9 +8,9 @@ permalink: /behaviors.html
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## Common Behaviors Associated with Typical Health Conditions
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site is generated using [video of IVDD](https://www.youtube.com/watch?v=u3DFNXvUEH0), a project to create a free and simple digital collection using [Consvative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
