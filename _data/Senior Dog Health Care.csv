@@ -1,4 +1,4 @@
-objectid,filename,Title,Date,Location,Document Type,Format,Condition,Behavior,Medicine,Clothing Type,Clothing Color or Pattern
+objectid,filename,title,date,location,documenttype,format,condition,behavior,medicine,clothingtype,clothingcolorpattern
 SDHC004,20230704_123545.mp4,Back Left Leg Shaking while Standing,7/4/2023,"Bloomington, IN",smartphone video,video/mpeg,Myelopathy,shaking; standing; walking,,,
 SDHC005,20230704_125959.mp4,Seizure Example 1,7/4/2023,"Bloomington, IN",smartphone video,video/mpeg,Myelopathy,stumbling; walking,,,
 SDHC006,20230704_232702.mp4,Seizure Example 2,7/4/2023,"Bloomington, IN",smartphone video,video/mpeg,Myelopathy,stumbling; walking,,,
