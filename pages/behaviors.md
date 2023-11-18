@@ -1,5 +1,5 @@
 ---
-title: Symptomatic Behaviors
+title: Common Behaviors
 layout: about
 permalink: /behaviors.html
 ---
@@ -8,18 +8,21 @@ permalink: /behaviors.html
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+## Development of Ralphie's Health Conditions and Behaviors
+
+Add stuff about Ralphie's health history
+Add links to [Rolling Hills Vet Clinic](https://rollinghillsvethospital.com/) and [Combs Vet Clinic](https://www.combsvetclinic.com/)
+
 ## Common Behaviors Associated with Typical Health Conditions
 
 This site is generated using [video of IVDD](https://www.youtube.com/watch?v=u3DFNXvUEH0), a project to create a free and simple digital collection using [Consvative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68) from: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Different images for useful information about typical behaviors -make this a different heading-
+
+- {% include feature/image.html objectid="SDHC006" width="75" caption="something about the video and Ralphie's behavior" %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-## History of the Collection
 
-Add stuff about Ralphie's health history
-Add links to [Rolling Hills Vet Clinic](https://rollinghillsvethospital.com/) and [Combs Vet Clinic](https://www.combsvetclinic.com/)
