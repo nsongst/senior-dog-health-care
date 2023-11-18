@@ -19,7 +19,7 @@ This site is generated using [video of IVDD](https://www.youtube.com/watch?v=u3D
 
 Different images for useful information about typical behaviors -make this a different heading-
 
-- {% include feature/image.html objectid="SDHC006" width="75" caption="something about the video and Ralphie's behavior" %}
+- {% include feature/video.html objectid="SDHC006" width="50" caption="a video Ralphie's behavior from seizures" %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
