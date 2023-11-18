@@ -17,9 +17,9 @@ Add links to [Rolling Hills Vet Clinic](https://rollinghillsvethospital.com/) an
 
 This site is generated using [video of IVDD](https://www.youtube.com/watch?v=u3DFNXvUEH0), a project to create a free and simple digital collection using [Consvative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68) from: 
 
-Different images for useful information about typical behaviors -make this a different heading-
+Useful information about common behaviors
 
-- {% include feature/video.html objectid="SDHC006" width="50" caption="a video Ralphie's behavior from seizures" %}
+{% include feature/video.html objectid="SDHC006" width="50" caption="a video Ralphie's behavior from seizures" %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
