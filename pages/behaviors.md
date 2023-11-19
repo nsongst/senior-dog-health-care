@@ -12,6 +12,10 @@ permalink: /behaviors.html
 
 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">This development of health conditions is quite typical for the Miniature Schnauzer breed of dog. While the care of a senior dog can be expensive, it is worth the budgeting to see a 13 year old dog still act have the energy of a 5 year old dog.</span>
 
+This is a video of Ralphie having a seizure. You will notice that the seizure lasts for only a matter of seconds. His veterinarian at VCA Advanced Veterinary Care Center said that bringing even a short video like this one to a consultation can help a veterinarian better diagnose a pet's health concern.
+
+{% include feature/video.html objectid="SDHC006" width="50" caption="a video Ralphie's behavior from seizures" %}</span>
+
 <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Common Behaviors of Typical Health Conditions
 
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Intervertebral Disc Disease (IVDD)
@@ -35,8 +39,6 @@ permalink: /behaviors.html
 🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Changes in Behavior
  
   - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">A dog with IVDD may exhibit changes in behavior, such as irritability or aggression, due to pain.
-
-[Conservative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68)
 
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Seizures
 
@@ -72,6 +74,6 @@ permalink: /behaviors.html
 
 <span style="color: green; font-size: large;">&bull;</span> [Merck Manual](https://www.merckvetmanual.com/dog-owners/ear-disorders-of-dogs/disorders-of-the-outer-ear-in-dogs#v39104914): The information on this site provides a detailed list of different allergies and skin issues in dogs. 
 
-{% include feature/video.html objectid="SDHC006" width="50" caption="a video Ralphie's behavior from seizures" %}</span>
-
-
+This video from YouTube provides a comprehensive explanation of IVDD and a conservative approach to managing IVDD in dogs. 
+  
+  - [Conservative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68)
