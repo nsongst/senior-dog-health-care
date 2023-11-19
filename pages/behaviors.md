@@ -78,7 +78,9 @@ This development of health conditions is quite typical for the Miniature Schnauz
 ## Useful Resources
 
 - <span style="color: green; font-size: large;">&bull;</span> [Merck Manual](https://www.merckvetmanual.com/nervous-system): The information on myelin disorders is applicable to Ralphie's health condition. This site provides a wide range of information about spinal and nervous system disorders in dogs.
+
 - <span style="color: green; font-size: large;">&bull;</span> [American College of Veterinary Surgeons](https://www.acvs.org/small-animal/intervertebral-disc-disease/): The information on this site provides a well-organized breakdown of IVDD.
+
 - <span style="color: green; font-size: large;">&bull;</span> [Merck Manual](https://www.merckvetmanual.com/dog-owners/ear-disorders-of-dogs/disorders-of-the-outer-ear-in-dogs#v39104914): The information on this site provides a detailed list of different allergies and skin issues in dogs. 
 
 {% include feature/video.html objectid="SDHC006" width="50" caption="a video Ralphie's behavior from seizures" %}
