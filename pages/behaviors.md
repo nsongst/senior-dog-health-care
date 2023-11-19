@@ -38,7 +38,7 @@ permalink: /behaviors.html
 
 [Conservative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68)
 
-  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Seizures
+  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Seizures
 
 🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Aura (Pre-Ictal Phase)
  
