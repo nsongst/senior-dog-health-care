@@ -4,7 +4,7 @@ layout: about
 permalink: /conditions.html
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/image.html objectid="SDHC066" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
