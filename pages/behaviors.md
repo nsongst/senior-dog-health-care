@@ -69,7 +69,7 @@ This development of health conditions is quite typical for the Miniature Schnauz
   - After the seizure, a dog may appear disoriented, confused, or tired. Some dogs may seek comfort from their owners during this phase.
 
 🔵 **Temporary Blindness or Changes in Vision**
-  - In some cases, dogs may experience temporary blindness or changes in vision during a seizure.
+  <span style="color: green; font-size: large;">&bull;</span> In some cases, dogs may experience temporary blindness or changes in vision during a seizure.
 
 ## Chronic Allergies
 
