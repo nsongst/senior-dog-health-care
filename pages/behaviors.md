@@ -16,17 +16,9 @@ This development of health conditions is quite typical for the Miniature Schnauz
 
 ## Intervertebral Disc Disease (IVDD)
 
-🔵 **Back Pain**
-  
-  - Dogs with IVDD may exhibit signs of discomfort or pain in the back or neck area.
-
 🔵 **Reluctance to Move**
   
   - Affected dogs may be hesitant to move, jump, or engage in activities they used to enjoy.
-
-🔵 **Hind Limb Weakness**
-  
-  - IVDD can lead to weakness or paralysis in the hind limbs due to compression of the spinal cord.
 
 🔵 **Unsteady Gait**
   - Dogs may have difficulty maintaining balance and may exhibit an unsteady or wobbly gait.
@@ -34,10 +26,6 @@ This development of health conditions is quite typical for the Miniature Schnauz
 🔵 **Difficulty or Inability to Stand**
  
   - In severe cases, dogs may struggle to stand or become completely unable to do so.
-
-🔵 **Loss of Bladder or Bowel Control**
- 
- - Compression of the spinal cord can lead to incontinence or difficulty controlling bowel movements.
 
 🔵 **Crying or Whining**
  
@@ -59,14 +47,6 @@ This development of health conditions is quite typical for the Miniature Schnauz
  
   - During a seizure, a dog may lose consciousness and appear unresponsive to their surroundings.
 
-🔵 **Muscle Rigidity (Tonic Phase)**
- 
-  - The muscles may stiffen, causing the dog to fall over or become rigid. This phase is usually brief.
-
-🔵 **Convulsions (Clonic Phase)**
- 
-  - This phase involves rhythmic jerking movements of the limbs or the entire body. The dog may paddle their legs or exhibit twitching.
-
 🔵 **Salivation and Drooling**
 
  - Excessive salivation or drooling is common during and after a seizure.
@@ -75,17 +55,9 @@ This development of health conditions is quite typical for the Miniature Schnauz
  
   - Dogs may exhibit jaw movements, including chomping or gnashing of teeth.
 
-🔵 **Loss of Bowel or Bladder Control**
-
-  - Some dogs may involuntarily urinate or defecate during a seizure.
-
 🔵 **Post-Ictal Phase**
  
   - After the seizure, a dog may appear disoriented, confused, or tired. Some dogs may seek comfort from their owners during this phase.
-
-🔵 **Temporary Blindness or Changes in Vision**
- 
-  - In some cases, dogs may experience temporary blindness or changes in vision during a seizure.
 
 ## Chronic Allergies
 
