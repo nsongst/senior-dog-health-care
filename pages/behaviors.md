@@ -4,7 +4,8 @@ layout: about
 permalink: /behaviors.html
 ---
 
-{% include feature/jumbotron.html objectid="SDHC067" %}
+{% include feature/image.jpg objectid="SDHC067" %}
+
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Development of Ralphie's Health Conditions and Behaviors
