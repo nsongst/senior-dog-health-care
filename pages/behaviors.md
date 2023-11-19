@@ -67,7 +67,7 @@ Ralphie, my miniature schnauzer, enjoyed robust health until he reached the age 
   <span style="color:green;">&bull;</span> After the seizure, a dog may appear disoriented, confused, or tired. Some dogs may seek comfort from their owners during this phase.
 
 <span style="color:blue;">&bull;</span> **Temporary Blindness or Changes in Vision:**
-  - <span style="color:green;">&bull;</span> In some cases, dogs may experience temporary blindness or changes in vision during a seizure.
+<span style="color:green;">&bull;</span> - In some cases, dogs may experience temporary blindness or changes in vision during a seizure.
 
 ## Chronic Allergies
 
