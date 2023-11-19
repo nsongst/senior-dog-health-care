@@ -16,22 +16,22 @@ This development of health conditions is quite typical for the Miniature Schnauz
 
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Intervertebral Disc Disease (IVDD)
 
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">_Reluctance to Move_
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Reluctance to Move
   
   - Affected dogs may be hesitant to move, jump, or engage in activities they used to enjoy.
 
-🔵 **Unsteady Gait**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Unsteady Gait
   - Dogs may have difficulty maintaining balance and may exhibit an unsteady or wobbly gait.
 
-🔵 **Difficulty or Inability to Stand**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Difficulty or Inability to Stand
  
   - In severe cases, dogs may struggle to stand or become completely unable to do so.
 
-🔵 **Crying or Whining**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Crying or Whining
  
  - Dogs in pain may vocalize through crying, whining, or whimpering.
 
-🔵 **Changes in Behavior**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Changes in Behavior
  
   - A dog with IVDD may exhibit changes in behavior, such as irritability or aggression, due to pain.
 
@@ -39,23 +39,23 @@ This development of health conditions is quite typical for the Miniature Schnauz
 
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Seizures
 
-🔵 **Aura (Pre-Ictal Phase)**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Aura (Pre-Ictal Phase)
  
   - Some dogs may exhibit changes in behavior or show signs of anxiety or restlessness before the actual seizure occurs.
 
-🔵 **Loss of Consciousness**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Loss of Consciousness
  
   - During a seizure, a dog may lose consciousness and appear unresponsive to their surroundings.
 
-🔵 **Salivation and Drooling**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Salivation and Drooling
 
  - Excessive salivation or drooling is common during and after a seizure.
 
-🔵 **Chomping or Gnashing of Teeth**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Chomping or Gnashing of Teeth
  
   - Dogs may exhibit jaw movements, including chomping or gnashing of teeth.
 
-🔵 **Post-Ictal Phase**
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em; font-weight: bold">Post-Ictal Phase
  
   - After the seizure, a dog may appear disoriented, confused, or tired. Some dogs may seek comfort from their owners during this phase.
 
