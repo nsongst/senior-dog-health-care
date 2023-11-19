@@ -12,9 +12,9 @@ Ralphie, my miniature schnauzer, enjoyed robust health until he reached the age 
 
 This development of health conditions is quite typical for the Miniature Schnauzer breed of dog. While the care of a senior dog can be expensive, it is worth the budgeting to see a 13 year old dog still act have the energy of a 5 year old dog. 
 
-# Common Behaviors Associated with Typical Health Conditions
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Common Behaviors Associated with Typical Health Conditions
 
-## Intervertebral Disc Disease (IVDD)
+  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Intervertebral Disc Disease (IVDD)
 
 🔵 **Reluctance to Move**
   
@@ -37,7 +37,7 @@ This development of health conditions is quite typical for the Miniature Schnauz
 
 [Conservative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68)
 
-## Seizures
+  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Seizures
 
 🔵 **Aura (Pre-Ictal Phase)**
  
@@ -59,11 +59,11 @@ This development of health conditions is quite typical for the Miniature Schnauz
  
   - After the seizure, a dog may appear disoriented, confused, or tired. Some dogs may seek comfort from their owners during this phase.
 
-## Chronic Allergies
+  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Chronic Allergies
 
-## Gastrointestinal Inflammation
+  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Gastrointestinal Inflammation
 
-## Useful Resources
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Useful Resources
 
 <span style="color: green; font-size: large;">&bull;</span> [Merck Manual](https://www.merckvetmanual.com/nervous-system): The information on myelin disorders is applicable to Ralphie's health condition. This site provides a wide range of information about spinal and nervous system disorders in dogs.
 
