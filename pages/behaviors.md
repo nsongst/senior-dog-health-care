@@ -4,7 +4,7 @@ layout: about
 permalink: /behaviors.html
 ---
 
-{% include feature/image.jpg objectid="SDHC067" %}
+{% include feature/jumbotron.html objectid="SDHC067" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
