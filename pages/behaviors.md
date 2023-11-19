@@ -17,7 +17,7 @@ This development of health conditions is quite typical for the Miniature Schnauz
 ## Intervertebral Disc Disease (IVDD)
 
 🔵 **Back Pain**
-  - Dogs with IVDD may exhibit signs of discomfort or pain in the back or neck area.
+  Dogs with IVDD may exhibit signs of discomfort or pain in the back or neck area.
 
 🔵 **Reluctance to Move**
   - Affected dogs may be hesitant to move, jump, or engage in activities they used to enjoy.
