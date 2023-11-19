@@ -16,7 +16,7 @@ This development of health conditions is quite typical for the Miniature Schnauz
 
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Intervertebral Disc Disease (IVDD)
 
-🔵 <span style="font-family: 'Comic Sans MS', sans-serif; font-size: 1.2em; font-weight: bold">**Reluctance to Move**
+🔵 <span style="font-family: 'Comic Sans MS', sans-serif; font-size: 1.2em; font-weight: bold">_Reluctance to Move_
   
   - Affected dogs may be hesitant to move, jump, or engage in activities they used to enjoy.
 
