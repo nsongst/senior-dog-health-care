@@ -18,8 +18,8 @@ Add links to [Rolling Hills Vet Clinic](https://rollinghillsvethospital.com/) an
 
 ## Intervertebral Disc Disease (IVDD)
 
-- :blue_heart: **Slow Development:** Ralphie's IVDD is of the slow-developing form, where symptoms gradually manifested over time.
-- :blue_heart: **Onset at 11:** Behaviors associated with IVDD became noticeable when Ralphie turned 11.
+- <span style="color:blue;">&bull;</span> **Slow Development:** Ralphie's IVDD is of the slow-developing form, where symptoms gradually manifested over time.
+- <span style="color:blue;">&bull;</span> **Onset at 11:** Behaviors associated with IVDD became noticeable when Ralphie turned 11.
 
 ## Seizures
 
