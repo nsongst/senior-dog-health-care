@@ -12,11 +12,11 @@ Ralphie, my miniature schnauzer, enjoyed robust health until he reached the age 
 
 This development of health conditions is quite typical for the Miniature Schnauzer breed of dog. While the care of a senior dog can be expensive, it is worth the budgeting to see a 13 year old dog still act have the energy of a 5 year old dog. 
 
-<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Common Behaviors Associated with Typical Health Conditions
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Common Behaviors of Typical Health Conditions
 
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Intervertebral Disc Disease (IVDD)
 
-🔵 <span style="font-family: 'Lucinda Handwriting', sans-serif; font-size: 1.2em; font-weight: bold">**Reluctance to Move**
+🔵 <span style="font-family: 'Comic Sans MS', sans-serif; font-size: 1.2em; font-weight: bold">**Reluctance to Move**
   
   - Affected dogs may be hesitant to move, jump, or engage in activities they used to enjoy.
 
