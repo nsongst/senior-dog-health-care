@@ -18,13 +18,15 @@ This development of health conditions is quite typical for the Miniature Schnauz
 
 🔵 **Back Pain**
   
-  <span style="color: green; font-size: large;">&bull;</span> Dogs with IVDD may exhibit signs of discomfort or pain in the back or neck area.
+    <span style="color: green; font-size: large;">&bull;</span> Dogs with IVDD may exhibit signs of discomfort or pain in the back or neck area.
 
 🔵 **Reluctance to Move**
-  <span style="color: green; font-size: large;">&bull;</span> Affected dogs may be hesitant to move, jump, or engage in activities they used to enjoy.
+  
+    <span style="color: green; font-size: large;">&bull;</span> Affected dogs may be hesitant to move, jump, or engage in activities they used to enjoy.
 
 🔵 **Hind Limb Weakness**
-  <span style="color: green; font-size: large;">&bull;</span> IVDD can lead to weakness or paralysis in the hind limbs due to compression of the spinal cord.
+  
+    <span style="color: green; font-size: large;">&bull;</span> IVDD can lead to weakness or paralysis in the hind limbs due to compression of the spinal cord.
 
 🔵 **Unsteady Gait**
   - Dogs may have difficulty maintaining balance and may exhibit an unsteady or wobbly gait.
