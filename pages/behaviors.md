@@ -102,6 +102,6 @@ permalink: /behaviors.html
 
 <span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[Merck Manual](https://www.merckvetmanual.com/dog-owners/ear-disorders-of-dogs/disorders-of-the-outer-ear-in-dogs#v39104914): The information on this site provides a detailed list of different allergies and skin issues in dogs. 
 
-<span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">This video from YouTube provides a comprehensive explanation of IVDD and a conservative approach to managing IVDD in dogs. 
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">This video from YouTube provides a comprehensive explanation of IVDD and a conservative approach to managing IVDD in dogs. 
   
   - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">[Conservative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68)
