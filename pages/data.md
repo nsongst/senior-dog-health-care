@@ -14,5 +14,6 @@ Alternatively, click the "Download" button at the top right to view the full col
 
 field,display_name
 title,Title
-condition,Condition
-medicine,Medicine
+date,Date
+description,Description
+subjects,Subjects
