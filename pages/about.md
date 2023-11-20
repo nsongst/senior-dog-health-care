@@ -6,7 +6,7 @@ permalink: /about.html
 credits: true
 ---
 
-{% include feature/image.html objectid="SDHC071" %}
+{% include feature/image.html objectid="SDHC070" %}
 
 ## About the Collection
 
