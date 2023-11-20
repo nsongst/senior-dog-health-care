@@ -6,160 +6,42 @@ permalink: /conditions.html
 
 {% include feature/image.html objectid="SDHC068" %}
 
-<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Development of Ralphie's Health Conditions and Behaviors</span>
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Development of Ralphie's Health Conditions</span>
 
 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">Ralphie, my miniature schnauzer, enjoyed robust health until he reached the age of 9. At this point, we were living in Columbia, MO where he was diagnosed with the slow-developing form of [Intervertebral Disc Disease (IVDD)](https://www.youtube.com/watch?v=u3DFNXvUEH0) at the [Rolling Hills Vet Clinic](https://rollinghillsvethospital.com/) and chronic allergies at the [University of Missouri-Columbia Small Animal Hospital](https://vhc.missouri.edu/small-animal-hospital/). The onset of behaviors associated with IVDD became apparent when he turned 11. After he turned 13, he was diagnosed with seizure-like episodes at [VCA Advanced Veterinary Care Center](https://vcahospitals.com/advanced-veterinary-care-center) while we were living in Bloomington, IN. These seizures are not linked to IVDD or any of his other health conditions. His allergy behaviors were first noticeable as mild scratching and biting at his paws and armpit areas when he was 9 years old. This behavior developed over the years until he was diagnosed with chronic allergies at the [University of Missouri-Columbia Small Animal Hospital](https://vhc.missouri.edu/small-animal-hospital/). His veterinarian prescribed an allergy antigen shot that was to be administered at home. After we moved to Indiana, he was reassessed at his primary care veterinary clinic, [Combs Vet Clinic](https://www.combsvetclinic.com/), and was referred to [Animal Allergy and Dermatology Center of Indiana](https://www.aadci.com/) for a formal reassessment of his allergies.</span>
 
-<span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">This development of health conditions is quite typical for the Miniature Schnauzer breed of dog. While the care of a senior dog can be expensive, it is worth the budgeting to see a 13 year old dog still act have the energy of a 5 year old dog.
+<span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">This development of health conditions is quite typical for the Miniature Schnauzer breed of dog. While the care of a senior dog can be expensive, it is worth the budgeting to see a 13 year old dog still have the energy of a 5 year old dog.
 
-<span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">This is a video of Ralphie having a seizure. You will notice that the seizure lasts for only a matter of seconds. His veterinarian at VCA Advanced Veterinary Care Center said that bringing even a short video like this one to a consultation can help a veterinarian better diagnose a pet's health concern.
+<span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">Below are a series of images of Ralphie's skin issues from early infection, advanced infection, and recovery.
 
-{% include feature/video.html objectid="SDHC006" width="50" caption="a video Ralphie's behavior from seizures" %}
+{% include feature/image.html objectid="SDHC064;SDHC008;SDHC036" %}
 
-<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Common Behaviors of Typical Health Conditions
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Typical Health Conditions in Miniature Schnauzers
 
-  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Intervertebral Disc Disease (IVDD)
+Miniature Schnauzers are prone to several health conditions that require attentive care. [Pancreatitis](https://vcahospitals.com/know-your-pet/pancreatitis-in-dogs), characterized by inflammation of the pancreas, is a concern for this breed. The condition can be triggered by [high-fat diets](https://www.petmd.com/dog/nutrition/fats-for-dogs), emphasizing the importance for owners to be cautious about their dog's diet and avoid feeding them foods high in fat. Similarly, [hyperlipidemia](https://vcahospitals.com/know-your-pet/hyperlipidemia), an elevated level of fats in the blood, is another health risk for Miniature Schnauzers. Effective management involves monitoring their diet and ensuring it is [low in fat](https://www.hillspet.com/dog-food/pd-id-low-fat-canine-dry) to mitigate the risk of hyperlipidemia.
 
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Reluctance to Move
-  
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Affected dogs may be hesitant to move, jump, or engage in activities they used to enjoy.
+In addition to these concerns, Miniature Schnauzers are more susceptible to developing [bladder stones](https://vcahospitals.com/know-your-pet/bladder-stones-in-dogs), making it essential for owners to maintain a balanced diet for their dogs and ensure access to fresh water to help prevent the formation of stones. [Dental issues](https://vcahospitals.com/know-your-pet/dental-disease-in-dogs), including [periodontal disease](https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/periodontal-disease), are common in this breed. Regular dental care practices, such as [brushing their teeth](https://youtu.be/F6S50BZU1D0?si=eJaO-cL0Ku5yfaK0) and providing dental chews, contribute to maintaining good oral health. Furthermore, Miniature Schnauzers may experience hereditary eye conditions, such as [cataracts](https://vcahospitals.com/know-your-pet/cataracts-in-dogs) and [progressive retinal atrophy](https://vcahospitals.com/know-your-pet/progressive-retinal-atrophy-in-dogs) (PRA). Regular eye check-ups are recommended to monitor and address any potential issues in a timely manner.
 
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Unsteady Gait
+[Intervertebral Disc Disease](https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/intervertebral-disc-disease) (IVDD) in Miniature Schnauzers, while not as common as in some other breeds, can pose health concerns that require vigilance and proactive measures from pet owners. IVDD involves the [degeneration or herniation of intervertebral discs](https://youtu.be/AXOXzBMtPoQ?si=z19pF-fJTZcDKQJw) in the spine, potentially leading to spinal cord compression and neurological issues. Owners should be attentive to signs such as reluctance to move, changes in gait, or signs of pain. Regular veterinary check-ups are essential for early detection, allowing for timely intervention if any issues arise. Maintaining a healthy weight is crucial for minimizing stress on the spine, as excess weight can exacerbate the risk of IVDD. Additionally, providing a well-balanced diet, regular exercise to promote muscle strength, and avoiding activities that put undue strain on the spine are important preventive measures. Pet owners should work closely with their veterinarians to develop a tailored care plan, considering the individual health and lifestyle of their Miniature Schnauzer to ensure a happy and healthy life.
 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may have difficulty maintaining balance and may exhibit an unsteady or wobbly gait.
+[Chronic allergies](https://vcahospitals.com/know-your-pet/allergy-general-in-dogs) in Miniature Schnauzers can manifest as persistent skin issues, presenting challenges for both dogs and their owners. These allergies may be triggered by various environmental factors, such as pollen, dust mites, or certain foods. Common symptoms include excessive scratching, chewing, redness, and inflammation of the skin. The [relationship between chronic allergies and skin issues](https://www.oregonvma.org/care-health/companion-animals/health-safety/allergies-skin-issues-in-pets#:~:text=The%20most%20common%20reason%20for,itching%2C%20including%20fleas%20or%20infection.) is significant, as the allergic reactions often target the skin, leading to discomfort for the dog. Owners should remain vigilant for signs of chronic allergies, seeking prompt veterinary attention if symptoms persist. Preventative measures may involve identifying and minimizing exposure to specific allergens, adjusting the dog's diet, and incorporating regular grooming practices. Maintaining good skin health is crucial, and veterinarians may recommend specialized diets, allergy testing, or medications tailored to alleviate symptoms and enhance the overall well-being of Miniature Schnauzers prone to chronic allergies and associated skin problems.
 
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Difficulty or Inability to Stand
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">In severe cases, dogs may struggle to stand or become completely unable to do so.
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Intervertebral Disc Disease (IVDD)
 
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Crying or Whining
- 
- - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs in pain may vocalize through crying, whining, or whimpering.
+🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Intervertebral Disc Disease (IVDD) is a spinal condition that can affect dogs, including Miniature Schnauzers. In IVDD, the intervertebral discs, which act as cushions between the vertebrae, can degenerate or herniate. This degeneration may lead to compression of the spinal cord, causing a range of symptoms. Affected dogs may exhibit signs of pain, reluctance to move, changes in gait, and, in severe cases, neurological deficits such as limb weakness or paralysis. The condition can vary in severity, and factors such as age, genetics, and weight can contribute to its development. While IVDD can occur in any dog breed, certain breeds, including those with longer backs like Dachshunds, are more predisposed. Early detection and intervention are crucial for managing IVDD, and treatment may involve pain management, rest, and in some cases, surgical intervention. Pet owners should be observant of their dog's behavior and seek veterinary attention if they notice any concerning signs related to mobility or discomfort.
 
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Changes in Behavior
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">A dog with IVDD may exhibit changes in behavior, such as irritability or aggression, due to pain.
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Chronic Allergies
 
-  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Seizures
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Aura (Pre-Ictal Phase)
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Some dogs may exhibit changes in behavior or show signs of anxiety or restlessness before the actual seizure occurs.
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Loss of Consciousness
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">During a seizure, a dog may lose consciousness and appear unresponsive to their surroundings.
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Salivation and Drooling
-
- - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Excessive salivation or drooling is common during and after a seizure.
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Chomping or Gnashing of Teeth
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may exhibit jaw movements, including chomping or gnashing of teeth.
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Post-Ictal Phase
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">After the seizure, a dog may appear disoriented, confused, or tired. Some dogs may seek comfort from their owners during this phase.
-
-  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Chronic Allergies
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Excessive Scratching
-  
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs with allergies often scratch themselves excessively, especially in areas like the face, ears, paws, and armpits.
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Chewing and Licking
-
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Allergic dogs may chew or lick certain body parts, leading to redness, inflammation, and even the development of hot spots.
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Rubbing or Scooting
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may rub their bodies against furniture or the floor or scoot their hindquarters on the ground, indicating irritation, itching, or discomfort.
+🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Chronic allergies in dogs, including Miniature Schnauzers, refer to prolonged and recurring hypersensitive reactions to various environmental or dietary triggers. These allergies often manifest in dermatological issues, affecting the skin and causing discomfort for the dog. Common symptoms include persistent itching, redness, inflammation, and sometimes even secondary skin infections. Allergens can range from pollen and dust mites to certain foods, and identifying the specific triggers is crucial for effective management. Chronic allergies may result in a cycle of itching and scratching, potentially leading to hair loss, open sores, and a compromised skin barrier. The relationship between chronic allergies and skin problems is significant, as the immune system's overreaction can impact the skin's health. Veterinary diagnosis may involve allergy testing to pinpoint triggers, and management often includes dietary changes, allergen avoidance, medications like antihistamines or steroids, and, in severe cases, immunotherapy. Regular veterinary check-ups and proactive measures are essential to enhance the well-being of dogs prone to chronic allergies and associated skin issues.
 
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Gastrointestinal Inflammation
   
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Lethargy
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Gastrointestinal issues can cause dogs to become lethargic or less active than usual.
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Changes in Appetite
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may experience a loss of appetite (anorexia) or, conversely, an increase in hunger (polyphagia).
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Abdominal Discomfort
-
- - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may exhibit signs of abdominal pain or discomfort, such as sensitivity to touch, restlessness, or a hunched posture.
-
-🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Increased or Altered Thirst
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may exhibit changes in their drinking behavior, such as increased water consumption or reluctance to drink.
+🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Gastrointestinal inflammation in dogs refers to a condition where the digestive tract undergoes irritation and swelling, impacting the normal functioning of the gastrointestinal system. Various factors can contribute to this inflammation, including infections, dietary indiscretions, food allergies, or inflammatory bowel disease. The symptoms of gastrointestinal inflammation can be diverse, ranging from mild discomfort to more severe issues such as vomiting, diarrhea, abdominal pain, and changes in appetite. Dogs experiencing gastrointestinal inflammation may exhibit signs of lethargy, dehydration, or alterations in bowel habits. The condition can affect different parts of the digestive tract, including the stomach and intestines. Chronic inflammation may lead to long-term digestive problems if not addressed. Veterinary diagnosis typically involves a thorough examination, possibly including blood tests, imaging, or endoscopy, to identify the underlying cause. Treatment strategies often include dietary modifications, medications to reduce inflammation, and, in some cases, antibiotics. Pet owners play a crucial role in managing gastrointestinal inflammation by adhering to veterinary recommendations, providing a balanced diet, and monitoring their dog's overall well-being. Regular veterinary check-ups help ensure early detection and intervention for optimal gastrointestinal health.
 
 <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Useful Resources
 
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Merck Manual: The information on [myelin disorders](https://www.merckvetmanual.com/nervous-system) is applicable to Ralphie's health condition. This site provides a wide range of information about spinal and nervous system disorders in dogs and a detailed [list of different allergies and skin issues](https://www.merckvetmanual.com/dog-owners/ear-disorders-of-dogs/disorders-of-the-outer-ear-in-dogs#v39104914) in dogs.
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">VCA: This [website](https://vcahospitals.com/know-your-pet/intervertebral-disc-disease-in-dogs) provides information on IVDD, covering its causes, symptoms, diagnosis, and treatment options.
 
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">American College of Veterinary Surgeons: The information on this site provides a well-organized breakdown of [IVDD](https://www.acvs.org/small-animal/intervertebral-disc-disease/).
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">AAAAI: This [website](https://www.aaaai.org/conditions-treatments/allergies/pet-allergy) provides information about chronic allergies and skin issues in dogs.
 
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">This video from YouTube provides a comprehensive explanation of IVDD and a conservative approach to managing IVDD in dogs. 
-  
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">[Conservative Management of IVDD](https://www.youtube.com/watch?v=SN_Sodwrd68)
-
-
-
-<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Common Behaviors of Typical Health Conditions
-
-  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Dermatitis
-
-🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Back Pain
-  
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs with IVDD may exhibit signs of discomfort or pain in the back or neck area.
-
-🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Hind Limb Weakness
-  
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">IVDD can lead to weakness or paralysis in the hind limbs due to compression of the spinal cord.
-
-🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Loss of Bladder or Bowel Control
- 
- - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Compression of the spinal cord can lead to incontinence or difficulty controlling bowel movements.
-
-  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Chronic Allergies
-
-🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Muscle Rigidity (Tonic Phase)
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">The muscles may stiffen, causing the dog to fall over or become rigid. This phase is usually brief.
-
-🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Convulsions (Clonic Phase)
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">This phase involves rhythmic jerking movements of the limbs or the entire body. The dog may paddle their legs or exhibit twitching.
-
-🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Loss of Bowel or Bladder Control
-
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Some dogs may involuntarily urinate or defecate during a seizure.
-
-🔷 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Temporary Blindness or Changes in Vision
- 
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">In some cases, dogs may experience temporary blindness or changes in vision during a seizure.
-
-  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Gastrointestinal Inflammation
-
-  <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Intervertebral Disc Disease
-
-<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Useful Resources
-
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[what is IVDD]([https://collectionbuilding.github.io/gh/](https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/intervertebral-disc-disease#:~:text=Intervertebral%20disc%20disease%20(IVDD)%20is,from%20mild%20discomfort%20to%20paralysis)
-
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[GitHub Pages](https://pages.github.com/) [symptoms of IVDD](https://www.matthews.carolinavet.com/site/pet-health-blog/2020/08/14/ivdd-intervertebral-disc-disease-in-dogs)
-
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[useful information about IVDD](https://vcahospitals.com/know-your-pet/degenerative-disc-disease-in-dogs)
-
-🔷 **Back Pain**
-  
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs with IVDD may exhibit signs of discomfort or pain in the back or neck area.
-
-🔷 **Hind Limb Weakness**
-  
-  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">IVDD can lead to weakness or paralysis in the hind limbs due to compression of the spinal cord.
-
-🔷 **Loss of Bladder or Bowel Control**
-
-
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">WebMD: This [website](https://www.webmd.com/pets/dogs/6-most-common-dog-health-problems) provides information on gastroenteritis in dogs, covering causes, symptoms, and treatment options.
