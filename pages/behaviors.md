@@ -12,7 +12,7 @@ permalink: /behaviors.html
 
 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">This development of health conditions is quite typical for the Miniature Schnauzer breed of dog. While the care of a senior dog can be expensive, it is worth the budgeting to see a 13 year old dog still act have the energy of a 5 year old dog.
 
-This is a video of Ralphie having a seizure. You will notice that the seizure lasts for only a matter of seconds. His veterinarian at VCA Advanced Veterinary Care Center said that bringing even a short video like this one to a consultation can help a veterinarian better diagnose a pet's health concern.</span>
+<span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">This is a video of Ralphie having a seizure. You will notice that the seizure lasts for only a matter of seconds. His veterinarian at VCA Advanced Veterinary Care Center said that bringing even a short video like this one to a consultation can help a veterinarian better diagnose a pet's health concern.
 
 {% include feature/video.html objectid="SDHC006" width="50" caption="a video Ralphie's behavior from seizures" %}
 
@@ -64,7 +64,35 @@ This is a video of Ralphie having a seizure. You will notice that the seizure la
 
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Chronic Allergies
 
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Excessive Scratching
+  
+  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs with allergies often scratch themselves excessively, especially in areas like the face, ears, paws, and armpits.
+
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Chewing and Licking
+
+  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Allergic dogs may chew or lick certain body parts, leading to redness, inflammation, and even the development of hot spots.
+
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Rubbing or Scooting
+ 
+  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may rub their bodies against furniture or the floor or scoot their hindquarters on the ground, indicating irritation, itching, or discomfort.
+
   <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Gastrointestinal Inflammation
+  
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Lethargy
+ 
+  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Gastrointestinal issues can cause dogs to become lethargic or less active than usual.
+
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Changes in Appetite
+ 
+  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may experience a loss of appetite (anorexia) or, conversely, an increase in hunger (polyphagia).
+
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Abdominal Discomfort
+
+ - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may exhibit signs of abdominal pain or discomfort, such as sensitivity to touch, restlessness, or a hunched posture.
+
+🔵 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Increased or Altered Thirst
+ 
+  - <span style="font-family: 'Perpetua', sans-serif; font-size: 1em">Dogs may exhibit changes in their drinking behavior, such as increased water consumption or reluctance to drink.
 
 <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Useful Resources
 
