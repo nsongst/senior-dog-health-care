@@ -4,7 +4,7 @@ layout: about
 permalink: /conditions.html
 ---
 
-{% include feature/image.html objectid="SDHC066" %}
+{% include feature/image.html objectid="SDHC068" %}
 
 <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Development of Ralphie's Health Conditions and Behaviors</span>
 
