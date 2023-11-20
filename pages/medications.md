@@ -4,7 +4,7 @@ layout: about
 permalink: /medications.html
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/image.html objectid="SDHC069" %}
 
 | Medication           | Other Names                  | Uses                                             | Dosage per Weight (approximate)                            |
 |----------------------|------------------------------|--------------------------------------------------|----------------------------------------------|
