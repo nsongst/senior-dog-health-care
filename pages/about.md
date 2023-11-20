@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="SDHC070" %}
+{% include feature/image.html objectid="SDHC071" %}
 
 ## About the Collection
 
