@@ -96,11 +96,9 @@ permalink: /behaviors.html
 
 <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Useful Resources
 
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[Merck Manual](https://www.merckvetmanual.com/nervous-system): The information on myelin disorders is applicable to Ralphie's health condition. This site provides a wide range of information about spinal and nervous system disorders in dogs.
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">Merck Manual: The information on [myelin disorders](https://www.merckvetmanual.com/nervous-system) is applicable to Ralphie's health condition. This site provides a wide range of information about spinal and nervous system disorders in dogs and a detailed [list of different allergies and skin issues](https://www.merckvetmanual.com/dog-owners/ear-disorders-of-dogs/disorders-of-the-outer-ear-in-dogs#v39104914) in dogs.
 
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[American College of Veterinary Surgeons](https://www.acvs.org/small-animal/intervertebral-disc-disease/): The information on this site provides a well-organized breakdown of IVDD.
-
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[Merck Manual](https://www.merckvetmanual.com/dog-owners/ear-disorders-of-dogs/disorders-of-the-outer-ear-in-dogs#v39104914): The information on this site provides a detailed list of different allergies and skin issues in dogs. 
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">American College of Veterinary Surgeons: The information on this site provides a well-organized breakdown of [IVDD](https://www.acvs.org/small-animal/intervertebral-disc-disease/).
 
 <span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">This video from YouTube provides a comprehensive explanation of IVDD and a conservative approach to managing IVDD in dogs. 
   
