@@ -1,12 +1,12 @@
 ---
-title: Typical Miniature Schnauzer Health Conditions
+title: Health Conditions in Miniature Schnauzers
 layout: about
 permalink: /conditions.html
 ---
 
 {% include feature/image.html objectid="SDHC066" %}
 
-<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Typical Health Conditions in Miniature Schnauzers
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Health Conditions in Miniature Schnauzers
 
 <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">Miniature Schnauzers are prone to several health conditions that require attentive care. [Pancreatitis](https://vcahospitals.com/know-your-pet/pancreatitis-in-dogs), characterized by inflammation of the pancreas, is a concern for this breed. The condition can be triggered by [high-fat diets](https://www.petmd.com/dog/nutrition/fats-for-dogs), emphasizing the importance for owners to be cautious about their dog's diet and avoid feeding them foods high in fat. Similarly, [hyperlipidemia](https://vcahospitals.com/know-your-pet/hyperlipidemia), an elevated level of fats in the blood, is another health risk for Miniature Schnauzers. Effective management involves monitoring their diet and ensuring it is [low in fat](https://www.hillspet.com/dog-food/pd-id-low-fat-canine-dry) to mitigate the risk of hyperlipidemia.
 
@@ -30,8 +30,8 @@ permalink: /conditions.html
 
 <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Useful Resources
 
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">VCA: This [website](https://vcahospitals.com/know-your-pet/intervertebral-disc-disease-in-dogs) provides information on IVDD, covering its causes, symptoms, diagnosis, and treatment options.
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[VCA](https://vcahospitals.com/know-your-pet/intervertebral-disc-disease-in-dogs): This website provides information on IVDD, covering its causes, symptoms, diagnosis, and treatment options.
 
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">AAAAI: This [website](https://www.aaaai.org/conditions-treatments/allergies/pet-allergy) provides information about chronic allergies and skin issues in dogs.
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[AAAAI](https://www.aaaai.org/conditions-treatments/allergies/pet-allergy): This website provides information about chronic allergies and skin issues in dogs.
 
-<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">WebMD: This [website](https://www.webmd.com/pets/dogs/6-most-common-dog-health-problems) provides information on gastroenteritis in dogs, covering causes, symptoms, and treatment options.
+<span style="color: green; font-size: large;">&bull;</span> <span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em">[WebMD](https://www.webmd.com/pets/dogs/6-most-common-dog-health-problems): This website provides information on gastroenteritis in dogs, covering causes, symptoms, and treatment options.
