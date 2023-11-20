@@ -2,4 +2,4 @@ field,display_name,search
 date,Date,true
 conditions,Conditions,true
 behaviors,Behaviors,true
-location,Location,true
+locations,Locations,true
