@@ -8,9 +8,9 @@ credits: true
 
 {% include feature/image.html objectid="SDHC070" %}
 
-## About the Collection
+<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">About the Collection
 
-This collection was created for the purpose of users learning more about the care of senior dogs, in particular Miniature Schnauzers. The creator of this collection, Nicole Songstad, has a Miniature Schnauzer named Ralphie who is 13 years old. Ralphie has several health conditions that affect his quality of life. This collection is made available to users who are interested in learning more about caring for their Miniature Schnauzer's typical health conditions.
+<span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">This collection was created for the purpose of users learning more about the care of senior dogs, in particular Miniature Schnauzers. The creator of this collection, Nicole Songstad, has a Miniature Schnauzer named Ralphie who is 13 years old. Ralphie has several health conditions that affect his quality of life. This collection is made available to users who are interested in learning more about caring for their Miniature Schnauzer's typical health conditions.</span>
 
 <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Development of Ralphie's Health Conditions</span>
 
