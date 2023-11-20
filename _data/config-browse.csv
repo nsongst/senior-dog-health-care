@@ -3,3 +3,6 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+condition,,true
+behavior,,true
+medicine,,true
