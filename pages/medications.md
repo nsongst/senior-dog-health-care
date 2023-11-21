@@ -20,7 +20,7 @@ permalink: /medications.html
 
 <span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.5em; font-weight: bold">Gastroenteropathy Medications
 
-🔷<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">Ursodiol
+🔷<span style="font-family: 'Bradley Hand ITC', sans-serif; font-size: 1.2em; font-weight: bold">![Ursodiol](objects/y.jpg)
 
 💠<span style="font-family: 'Perpetua', sans-serif; font-size: 1.2em;">Ursodiol, commonly prescribed for dogs, is a medication that falls under the category of bile acid modifiers. It is primarily used to treat liver diseases and conditions related to gallstones in dogs. Ursodiol works by promoting the dissolution of cholesterol-based gallstones and reducing the formation of new ones. Additionally, it aids in the improvement of bile flow, which can be crucial for dogs with compromised liver function. Veterinarians may recommend Ursodiol as part of a comprehensive treatment plan for liver disorders, including conditions like chronic hepatitis and certain types of cholangiohepatitis. As with any medication, it's essential for pet owners to follow their veterinarian's guidance regarding dosage and administration to ensure the well-being of their canine companions. Regular monitoring and veterinary check-ups are typically advised when Ursodiol is part of a dog's medical regimen.
 
